@@ -1,6 +1,8 @@
 # Trabajo-Grupal-ISPC
 **Curso 2022** 
 
+![pdf](./Resumen Metodologías Agile.pdf)
+
 ## Breve Resumen de lo visto en SCRUM:
 
 Roles de la metodología Scrum
